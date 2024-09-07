@@ -7,7 +7,7 @@ Install Required Libraries:
 pip install opencv-python imutils dlib
 
 Run the Script:
-python Drownsiness_detection.py
+python Drownsiness_detection_code.py
 
 Adjust parameters (optional):
 earThresh: Threshold value for EAR below which drowsiness is detected.
